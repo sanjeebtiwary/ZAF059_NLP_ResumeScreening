@@ -1,6 +1,7 @@
 ## **Resume Screening**
 
 **Model Link** : https://drive.google.com/drive/folders/12notc96A67GWPykyt6fYANCHNheuEcUt?usp=sharing
+
 **Dataset Link**: https://github.com/laxmimerit/CV-Parsing-using-Spacy-3 https://www.kaggle.com/datasets/gauravduttakiit/resume-dataset
 
 ### **Resume screening** is the process of reviewing and evaluating resumes submitted by job applicants to determine if they meet the minimum qualifications for the job. It involves a number of steps, including:
