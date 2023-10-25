@@ -399,7 +399,7 @@ wasabi==1.1.1
 wcwidth==0.2.6
 webcolors==1.13
 webencodings==0.5.1
-Werkzeug==2.2.3
+Werkzeug==3.0.1
 widgetsnbextension==3.6.4
 wordcloud==1.8.2.2
 wrapt==1.14.1
