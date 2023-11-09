@@ -268,7 +268,7 @@ psutil==5.9.4
 psycopg2==2.9.5
 ptyprocess==0.7.0
 py4j==0.10.9.7
-pyarrow==9.0.0
+pyarrow==14.0.1
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pycocotools==2.0.6
