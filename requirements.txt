@@ -273,7 +273,7 @@ pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pycocotools==2.0.6
 pycparser==2.21
-pycryptodome==3.17
+pycryptodome==3.19.1
 pyct==0.5.0
 pydantic==1.10.7
 pydata-google-auth==1.7.0
